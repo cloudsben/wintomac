@@ -4,8 +4,8 @@ LAlt::LControl
 
 CapsLock::RControl
 
->^f::Left
->^b::Right
+>^f::Right
+>^b::Left
 >^n::Down
 >^p::Up
 >^d::Del
